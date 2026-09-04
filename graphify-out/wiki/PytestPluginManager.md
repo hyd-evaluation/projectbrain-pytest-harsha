@@ -2,7 +2,7 @@
 
 > God node · 76 connections · `raw/code/hyd-evaluation/pytest-harsha/src/_pytest/config/__init__.py`
 
-**Community:** [Community 66](Community_66.md)
+**Community:** [Plugin Manager](Plugin_Manager.md)
 
 ## Connections by Relation
 

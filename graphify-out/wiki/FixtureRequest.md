@@ -2,7 +2,7 @@
 
 > God node · 81 connections · `raw/code/hyd-evaluation/pytest-harsha/src/_pytest/fixtures.py`
 
-**Community:** [Community 69](Community_69.md)
+**Community:** [Fixture Capture](Fixture_Capture.md)
 
 ## Connections by Relation
 

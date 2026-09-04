@@ -1,0 +1,27 @@
+# CI Output Truncation
+
+> 3 nodes · cohesion 0.67
+
+## Key Concepts
+
+- **CI pipelines** (2 connections) — `raw/code/hyd-evaluation/pytest-harsha/doc/en/reference/reference.rst`
+- **truncation_limit_chars configuration option** (1 connections) — `raw/code/hyd-evaluation/pytest-harsha/doc/en/reference/reference.rst`
+- **truncation_limit_lines configuration option** (1 connections) — `raw/code/hyd-evaluation/pytest-harsha/doc/en/reference/reference.rst`
+
+## Relationships
+
+- No strong cross-community connections detected
+
+## Source Files
+
+- `raw/code/hyd-evaluation/pytest-harsha/doc/en/reference/reference.rst`
+
+## Audit Trail
+
+- EXTRACTED: 2 (100%)
+- INFERRED: 0 (0%)
+- AMBIGUOUS: 0 (0%)
+
+---
+
+*Part of the graphify knowledge wiki. See [index](index.md) to navigate.*

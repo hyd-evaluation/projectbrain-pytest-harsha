@@ -2,7 +2,7 @@
 
 > God node · 90 connections · `raw/code/hyd-evaluation/pytest-harsha/src/_pytest/_code/code.py`
 
-**Community:** [Community 0](Community_0.md)
+**Community:** [Exception Reporting](Exception_Reporting.md)
 
 ## Connections by Relation
 

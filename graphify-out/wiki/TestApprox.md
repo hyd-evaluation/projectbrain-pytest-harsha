@@ -2,7 +2,7 @@
 
 > God node · 76 connections · `raw/code/hyd-evaluation/pytest-harsha/testing/python/approx.py`
 
-**Community:** [Community 15](Community_15.md)
+**Community:** [Approx Comparison Tests](Approx_Comparison_Tests.md)
 
 ## Connections by Relation
 
